@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/mirceaalexandru/seneca-crypt"
   },
+  "scripts": {
+    "test": "lab"
+  },
   "keywords": [
     "seneca",
     "crypto",
@@ -32,5 +35,9 @@
   },
   "peerDependencies": {
     "seneca": "*"
+  },
+  "devDependencies": {
+    "lab": "^6.2.0",
+    "seneca": "^0.7.1"
   }
 }
