@@ -30,9 +30,7 @@
     "url": "https://github.com/mirceaalexandru/seneca-crypt/issues"
   },
   "homepage": "https://github.com/mirceaalexandru/seneca-crypt",
-  "dependencies": {
-    "crypto": "0.0.3"
-  },
+  "dependencies": {},
   "peerDependencies": {
     "seneca": "*"
   },
